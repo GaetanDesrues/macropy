@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
 =============================
- MacroPy3 1.1.0b2
+ MacroPy3 1.1.0b2 221546
 =============================
 
 .. image:: https://travis-ci.org/azazel75/macropy.svg?branch=master
